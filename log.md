@@ -4,7 +4,7 @@
 
 **Today's Progress**: I publicly committed to the 100 Days of Code challenge, and learned CSS Flexbox fundamentals.
 
-**Thoughts:** I had a hard time focusing, but I pushed through and really got into Flexbox. I still haven't done much actual work with CSS though.
+**Thoughts:** I decided this was the external motivation I needed to continue on my career transition into tech. I had a hard time focusing, but I pushed through and really got into Flexbox.
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
