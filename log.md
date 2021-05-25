@@ -6,6 +6,11 @@
 
 **Thoughts:** I decided this was the external motivation I needed to continue on my career transition into tech. I had a hard time focusing, but I pushed through and really got into Flexbox.
 
+
+### Day 1: May 25, 2021
+
+**Today's progress**: I learned CSS Grid fundamentals and finished the Responsive Web Design course from FreeCodeCamp.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
