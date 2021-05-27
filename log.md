@@ -20,6 +20,13 @@
 
 **Thoughts:** My first time applying everything I've learned! Not going to lie, it was disorienting trying to do it on my own. Lots of Googling and reviewing the [freeCodeCamp course](https://www.freecodecamp.org/learn/responsive-web-design/)!
 
+
+### Day 3: May 27, Thursday
+
+**Today's progress**: I added the project to GitHub and integrated git version control. You can follow my progress [here](https://github.com/MichaelMullet/tributePage.git)! I also worked with layout and design, and changed the tribute content to be about my favorite coffee shop, Five Lakes Coffee. this is where I jumped from `starterPage.html` to `fiveLakesTribute.html`.
+
+**Thoughts:** Getting proper layout was tough, and I tried to implement flexbox in my CSS. I might have to review flexbox and grid so I can properly implement them in my site.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
