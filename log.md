@@ -27,6 +27,12 @@
 
 **Thoughts:** Getting proper layout was tough, and I tried to implement flexbox in my CSS. I might have to review flexbox and grid so I can properly implement them in my site.
 
+### Days 4 and 5: May 26-27, Friday-Saturday
+
+**Today's progress**: I worked with images and finished my first website today. First I learned how to host images on the web and upload them to my site, then I made them responsive to window sizes on the web page. I passed the codepen tests, so on to the next one!
+
+**Thoughts:** I would have liked to work more with the design on this project, but it's memorial day weekend and I want to chill! I just want it to pass for now, and when I'm not on vacation I can focus more on the design of a site.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
