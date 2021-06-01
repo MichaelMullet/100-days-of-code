@@ -27,11 +27,19 @@
 
 **Thoughts:** Getting proper layout was tough, and I tried to implement flexbox in my CSS. I might have to review flexbox and grid so I can properly implement them in my site.
 
+
 ### Day 4: May 29, Saturday
 
 **Today's progress**: I worked with images and finished my first website today. First I learned how to host images on the web and upload them to my site, then I made them responsive to window sizes on the web page. I passed the codepen tests, so on to the next one!
 
 **Thoughts:** I would have liked to work more with the design on this project, but it's memorial day weekend and I want to chill! Yesterday I was too busy with packing and life stuff to reach my computer. I just want my current project to pass for now, and when I'm not on vacation I can focus more on the design of a site.
+
+
+### Day 5: June 1, Tuesday
+
+**Today's progress**:  I took a few days off for memorial day weekend to spend with the family. I started a survey form website today, my goal is to make it fun and create my own design while still meeting the FreeCodeCamp requirements. I also started using external style sheets and got more comfortable with git commands in VSCode.
+
+**Thoughts:** Even though the #100DaysofCode challenge discourages skipping days, I took a couple days off because 1. I needed the break and 2. I am looking for a more sustainable habit building tool. If I take days off every once in a while I will be refreshed enough to keep going for longer. I think that's a more realistic way of approaching this challenge while still trying to manage my busy schedule!
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
