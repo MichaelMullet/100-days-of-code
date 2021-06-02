@@ -41,6 +41,13 @@
 
 **Thoughts:** Even though the #100DaysofCode challenge discourages skipping days, I took a couple days off because 1. I needed the break and 2. I am looking for a more sustainable habit building tool. If I take days off every once in a while I will be refreshed enough to keep going for longer. I think that's a more realistic way of approaching this challenge while still trying to manage my busy schedule!
 
+
+### Day 6: June 2, Wednesday
+
+**Today's progress**: I learned and worked with html forms in my survey website. I used `text`, `number`, `radio`, and `checkbox` input types, as well as `select` and `textarea` fields to finish out the form.
+
+**Thoughts**: I learned that building forms can be tedious, but the more accessable and easy to read, the better.
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
