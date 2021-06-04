@@ -48,11 +48,9 @@
 
 **Thoughts**: I learned that building forms can be tedious, but the more accessable and easy to read, the better.
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 7: June 3, Thursday
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's progress**: I learned how to style form elements and started coming up with a design for my survey site.
 
-**Link(s) to work**: [Calculator App](http://www.example.com) -->
+**Thoughts**: It's much more difficult than I thought it would be to come up with a cohesive design for everything. You have to think of every detail!
