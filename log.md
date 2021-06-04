@@ -54,3 +54,10 @@
 **Today's progress**: I learned how to style form elements and started coming up with a design for my survey site.
 
 **Thoughts**: It's much more difficult than I thought it would be to come up with a cohesive design for everything. You have to think of every detail!
+
+
+### Day 8: June 4, Friday
+
+**Today's progress**: I worked more on the design and focused on colors, fonts, and box shadows.
+
+**Thoughts**: I only had an hour today but the time went very quickly! This is fun!
