@@ -61,3 +61,10 @@
 **Today's progress**: I worked more on the design and focused on colors, fonts, and box shadows.
 
 **Thoughts**: I only had an hour today but the time went very quickly! This is fun!
+
+
+### Day 9: June 5, Saturday
+
+**Today's progress**: I finished the first (and maybe only?) version of the design for my survey site. Here's how it looks! ![Survey site](https://user-images.githubusercontent.com/80130632/120908577-8e6ee580-c639-11eb-84df-f79dc3a9265c.png)
+
+**Thoughts**: I like how the CodeCademy site looks so I wanted to borrow some design elements for my own page.
