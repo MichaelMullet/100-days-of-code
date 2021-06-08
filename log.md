@@ -68,3 +68,10 @@
 **Today's progress**: I finished the first (and maybe only?) version of the design for my survey site. Here's how it looks! ![Survey site](https://user-images.githubusercontent.com/80130632/120908577-8e6ee580-c639-11eb-84df-f79dc3a9265c.png)
 
 **Thoughts**: I like how the CodeCademy site looks so I wanted to borrow some design elements for my own page.
+
+
+### Day 10: June 7, Monday
+
+**Today's progress**: I practiced some Python to refresh my memory a bit and fixed an issue where my computer was not able to run Python from the terminal.
+
+**Thoughts**: I caught a cold over the weekend and so my energy is sapped. I took yesterday off and today I wanted to do something more relaxed than usual.
