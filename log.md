@@ -75,3 +75,10 @@
 **Today's progress**: I practiced some Python to refresh my memory a bit and fixed an issue where my computer was not able to run Python from the terminal.
 
 **Thoughts**: I caught a cold over the weekend and so my energy is sapped. I took yesterday off and today I wanted to do something more relaxed than usual.
+
+
+### Day 11: June 8, Tuesday
+
+**Today's progress**: I started the structure for a product landing page and did some planning for future projects.
+
+**Thoughts**: Really busy today, didn't get to do as much as I wanted.
