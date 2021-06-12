@@ -82,3 +82,17 @@
 **Today's progress**: I started the structure for a product landing page and did some planning for future projects.
 
 **Thoughts**: Really busy today, didn't get to do as much as I wanted.
+
+
+### Day 12: June 9, Wednesday
+
+**Today's progress**: I sketched an outline of the product page and now have a product, business name, and page design in mind. Selling Nike shoes. &copy; 2021 Roadrunner, All Rights Reserved. 
+
+**Thoughts**: I was inspired by the designs at [Stripe](https://stripe.com/) and [Allbirds](https://www.allbirds.com/).
+
+
+### Day 13: June 11, Friday
+
+**Today's progress**: Yes, I know I skipped another day. Work has been tough this week! Today I finished the structure and content of the product page. All I need is CSS styling!
+
+**Thoughts**: Sometimes it's hard to start coding because I know I'll be sucked in for hours if I'm not careful.
