@@ -96,3 +96,10 @@
 **Today's progress**: Yes, I know I skipped another day. Work has been tough this week! Today I finished the structure and content of the product page. All I need is CSS styling!
 
 **Thoughts**: Sometimes it's hard to start coding because I know I'll be sucked in for hours if I'm not careful.
+
+
+### Day 14: June 13, Sunday
+
+**Today's progress**: I made light visual improvements and designed a logo for the site.
+
+**Thoughts**: I plan to go ahead with CSS in the coming days and work with flexbox for all of it. It has been tough to focus on coding recently, trying to balance everything in my schedule is hard.
