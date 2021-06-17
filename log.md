@@ -103,3 +103,10 @@
 **Today's progress**: I made light visual improvements and designed a logo for the site.
 
 **Thoughts**: I plan to go ahead with CSS in the coming days and work with flexbox for all of it. It has been tough to focus on coding recently, trying to balance everything in my schedule is hard.
+
+
+### Day 15: June 17, Thursday
+
+**Today's progress**: I took some more time off, which was great! However I have plans to wrap this FreeCodeCamp course soon, I miss Python. Today I "eased myself" back into the product page by working on the page layout. Yikes 😅
+
+**Thoughts**: I've been trying to take care of my mental health lately. In my mind, that is more important than burning myself out. When I get my energy back, I want to go all out on these projects.
