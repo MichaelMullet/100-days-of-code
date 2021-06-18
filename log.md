@@ -110,3 +110,10 @@
 **Today's progress**: I took some more time off, which was great! However I have plans to wrap this FreeCodeCamp course soon, I miss Python. Today I "eased myself" back into the product page by working on the page layout. Yikes 😅
 
 **Thoughts**: I've been trying to take care of my mental health lately. In my mind, that is more important than burning myself out. When I get my energy back, I want to go all out on these projects.
+
+
+### Day 16: June 18, Friday
+
+**Today's progress**: Today was figuring out how to make a decent nav bar, and struggled more with page layout. Floats, divs, images, flexbox, and lists, oh my!
+
+**Thoughts**: This is harder than I thought it would be. Hopefully I finish this soon so I can move on!
