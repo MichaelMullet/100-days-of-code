@@ -117,3 +117,10 @@
 **Today's progress**: Today was figuring out how to make a decent nav bar, and struggled more with page layout. Floats, divs, images, flexbox, and lists, oh my!
 
 **Thoughts**: This is harder than I thought it would be. Hopefully I finish this soon so I can move on!
+
+
+### Day 17: June 19, Saturday
+
+**Today's progress**: I tried to make a diagonal div with a gradient for the front page, which is harder than it looks. I ended up using background images. Also found out how to eliminate the margin and padding of the body element!
+
+**Thoughts**: Progress is slow, maybe I shouldn't have tried to make this design perfect.
