@@ -124,3 +124,10 @@
 **Today's progress**: I tried to make a diagonal div with a gradient for the front page, which is harder than it looks. I ended up using background images. Also found out how to eliminate the margin and padding of the body element!
 
 **Thoughts**: Progress is slow, maybe I shouldn't have tried to make this design perfect.
+
+
+### Day 18: June 20, Sunday
+
+**Today's progress**: I am iterating on the design and keep improving the layout. CSS is great once you know what you're doing!
+
+**Thoughts**: I feel like I'm finally picking up momentum.
