@@ -131,3 +131,10 @@
 **Today's progress**: I am iterating on the design and keep improving the layout. CSS is great once you know what you're doing!
 
 **Thoughts**: I feel like I'm finally picking up momentum.
+
+
+### Day 19: June 23, Wednesday
+
+**Today's progress**: I did it! I finished designing my first concept page. It took much longer than I anticipated, but it's something I can be proud of. ![Product Page](https://user-images.githubusercontent.com/80130632/123187930-24dc3d00-d469-11eb-8060-9301eb63167c.png)
+
+**Thoughts**: It was a struggle to get this one done. I am so glad it's finished though, and I learned a lot while trying to design this web page.
