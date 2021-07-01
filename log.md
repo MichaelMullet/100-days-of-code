@@ -138,3 +138,10 @@
 **Today's progress**: I did it! I finished designing my first concept page. It took much longer than I anticipated, but it's something I can be proud of. ![Product Page](https://user-images.githubusercontent.com/80130632/123187930-24dc3d00-d469-11eb-8060-9301eb63167c.png)
 
 **Thoughts**: It was a struggle to get this one done. I am so glad it's finished though, and I learned a lot while trying to design this web page.
+
+
+### Day 20: June 30, Wednesday
+
+**Today's progress**: I'm in the middle of vacation and I was thinking how nice it would be to finish my freecodecamp course. I did the technical documentation page today and got all tests passed. Just one more project to go!
+
+**Thoughts**: It's really nice to get projects done more quickly now. Even though I took a good break from this for R&R, I am more with projects than I used to be.
