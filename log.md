@@ -145,3 +145,10 @@
 **Today's progress**: I'm in the middle of vacation and I was thinking how nice it would be to finish my freecodecamp course. I did the technical documentation page today and got all tests passed. Just one more project to go!
 
 **Thoughts**: It's really nice to get projects done more quickly now. Even though I took a good break from this for R&R, I am more with projects than I used to be.
+
+
+### Day 21: July 3, Saturday
+
+**Today's progress**: I did my entire project portfolio today which you can find [here](https://codepen.io/Mickl3/full/bGWVLPe). I also finished my Responsive Web Design course from freeCodeCamp! [Here's the certification](https://www.freecodecamp.org/certification/mickl3/responsive-web-design).
+
+**Thoughts**: I am refreshed from vacation and ready to start building again! I think it's time I revisited Python. But I am so glad I completed this certification.
