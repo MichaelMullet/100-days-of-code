@@ -152,3 +152,15 @@
 **Today's progress**: I did my entire project portfolio today which you can find [here](https://codepen.io/Mickl3/full/bGWVLPe). I also finished my Responsive Web Design course from freeCodeCamp! [Here's the certification](https://www.freecodecamp.org/certification/mickl3/responsive-web-design).
 
 **Thoughts**: I am refreshed from vacation and ready to start building again! I think it's time I revisited Python. But I am so glad I completed this certification.
+
+
+### Day 22: July 4, Sunday
+
+**Today's progress**: I promoted my portfolio and my certificate and got a couple jobs lined up along with my big project! I also put some finishing touches on that portfolio and started research on that big project.
+
+**Thoughts**: I think I am eliminating the thoughts section from here on out. I don't think it's very helpful.
+
+
+### Day 23: July 5, Monday
+
+**Today's progress**: I did more research on what I need to do this project. I started learning how to use the PyPDF2 module. I also started a mini review series on past Python projects to review the language and ease myself into this project.
